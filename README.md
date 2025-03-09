@@ -1,12 +1,19 @@
 💬 Simple Web Chat
+
 Simple Web Chat is a lightweight web-based chat application that allows multiple users to communicate in real time. 
 The application uses WebSocket technology for fast and efficient message transmission.
 
+
 🚀 Features
+
 ✅ Real-time chat between multiple users.
+
 ✅ Simple and user-friendly interface.
+
 ✅ Displays sender names for messages.
+
 ✅ Supports text messages.
+
 ✅ Can be deployed on a server or run locally.
 
 📸 Screenshots
@@ -20,6 +27,7 @@ The application uses WebSocket technology for fast and efficient message transmi
 ![image](https://github.com/user-attachments/assets/4f888e0e-8734-4ab1-8999-31a9211d8fdc)
 
 📜 Installation & Usage
+
 1️⃣ Set up environment
 Make sure you have Node.js installed.
 
@@ -35,7 +43,11 @@ npm start
 
 Open your browser and go to http://localhost:3000 to start chatting! 🎉
 
+
 📞 Contact
+
 Author: AntonNguyenVanChien
+
 Email: antonnguyenvanchien2002@gmail.com
+
 GitHub: AntonNguyenVanChien
